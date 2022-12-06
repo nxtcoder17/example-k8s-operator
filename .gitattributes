@@ -1,0 +1,3 @@
+config/crd/**/* binary
+api/**/zz_generated.deepcopy.go binary
+go.sum binary

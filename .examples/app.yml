@@ -1,0 +1,5 @@
+apiVersion: core.kloudlite.io/v1
+kind: App
+metadata:
+  name: sample-app
+  namespace: default
